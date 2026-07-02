@@ -1,4 +1,4 @@
-# Estimasi Rata-rata Academic Self-Efficacy Mahasiswa Program Studi S1 Statistika Universitas Mataram Menggunakan Two-Stage Cluster Sampling
+# Estimasi Rata-rata Academic Self-Efficacy Mahasiswa Program Studi Statistika Universitas Mataram Menggunakan Two-Stage Cluster Sampling
  
 <p align="center">
 
